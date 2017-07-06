@@ -1,0 +1,28 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "9312b76a-8a18-4aff-8535-688d69ddebde"
+    twig:
+      indent_with_tabs: true
+  core:
+    disabledPackages: [
+      "vim-mode"
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 15
+    showInvisibles: true
+  "exception-reporting":
+    userId: "4579f077-f03e-70cb-3b52-0844358abf92"
+  "split-diff":
+    diffWords: true
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+    syncHorizontalScroll: true
+  term3: {}
+  welcome:
+    showOnStartup: false
+".html.php.text":
+  editor:
+    tabLength: 4
