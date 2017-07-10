@@ -13,6 +13,7 @@ move-cursor-improved@0.1.0
 multi-cursor@2.1.5
 php-twig@4.0.0
 svgo@2.8.5
+symbols-tree-view@0.14.0
 tablr@1.8.3
 term3@0.22.1
 vim-mode@0.66.0
