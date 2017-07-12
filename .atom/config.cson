@@ -5,6 +5,7 @@
     twig:
       indent_with_tabs: true
   core:
+    closeDeletedFileTabs: true
     disabledPackages: [
       "vim-mode"
     ]
