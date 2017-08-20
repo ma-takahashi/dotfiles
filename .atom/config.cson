@@ -5,8 +5,11 @@
     twig:
       indent_with_tabs: true
   core:
+    automaticallyUpdate: false
+    closeDeletedFileTabs: true
     disabledPackages: [
       "vim-mode"
+      "whitespace"
     ]
     telemetryConsent: "no"
   editor:
