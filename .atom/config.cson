@@ -9,7 +9,6 @@
     closeDeletedFileTabs: true
     disabledPackages: [
       "vim-mode"
-      "whitespace"
     ]
     telemetryConsent: "no"
   editor:
