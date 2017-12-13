@@ -5,6 +5,7 @@
     twig:
       indent_with_tabs: true
   core:
+    allowPendingPaneItems: false
     automaticallyUpdate: false
     closeDeletedFileTabs: true
     disabledPackages: [
@@ -12,7 +13,7 @@
     ]
     telemetryConsent: "no"
   editor:
-    fontSize: 15
+    fontSize: 16
     showInvisibles: true
   "exception-reporting":
     userId: "4579f077-f03e-70cb-3b52-0844358abf92"
