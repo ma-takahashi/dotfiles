@@ -6,17 +6,31 @@
       indent_with_tabs: true
   core:
     allowPendingPaneItems: false
-    automaticallyUpdate: false
     closeDeletedFileTabs: true
     disabledPackages: [
       "vim-mode"
     ]
     telemetryConsent: "no"
   editor:
-    fontSize: 16
+    fontSize: 13
     showInvisibles: true
   "exception-reporting":
     userId: "4579f077-f03e-70cb-3b52-0844358abf92"
+  "linter-eslint":
+    autofix:
+      fixOnSave: true
+    disabling: {}
+    scopes: [
+      "source.js"
+      "source.jsx"
+      "source.js.jsx"
+      "source.babel"
+      "source.js-semantic"
+      "text.html.vue"
+    ]
+  "linter-ui-default":
+    panelHeight: 300
+    showPanel: true
   "split-diff":
     diffWords: true
     ignoreWhitespace: true
@@ -24,6 +38,7 @@
     rightEditorColor: "green"
     syncHorizontalScroll: true
   term3: {}
+  "tree-view": {}
   welcome:
     showOnStartup: false
 ".html.php.text":
