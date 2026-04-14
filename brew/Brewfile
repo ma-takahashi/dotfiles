@@ -1,6 +1,6 @@
 tap "hashicorp/tap"
 brew "gh"
-brew "node"
+brew "node@24"
 brew "qpdf"
 brew "rtk"
 brew "tfenv"
