@@ -1,6 +1,9 @@
+tap "argon/mas"
 tap "hashicorp/tap"
+brew "direnv"
 brew "gh"
-brew "node@24"
+brew "node", link: false
+brew "node@24", link: true
 brew "qpdf"
 brew "rtk"
 brew "tfenv"
